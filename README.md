@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.voutsaridiso.com/](https://www.voutsaridiso.com/)
 
-- 📝 I regularly write articles on [https://www.voutsaridiso.com/posts](https://www.voutsaridiso.com/blog)
+- 📝 I regularly write articles on [https://www.voutsaridiso.com/blog](https://www.voutsaridiso.com/#/blog)
 
 - 💬 Ask me about **ReactJs, Angular, React Native, Ionic, NodeJs, NextJs, ExpressJs**
 
